@@ -1,0 +1,13 @@
+# py
+.env/
+desktop*.ipynb
+__pycache__
+
+# development
+referencias/
+desktop/
+
+# local
+database/
+.auth*
+*.png
